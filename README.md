@@ -83,4 +83,4 @@ flask_app/
 
 ## License
 
-MIT License 
+MIT License.
